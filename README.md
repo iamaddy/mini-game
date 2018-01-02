@@ -11,7 +11,7 @@
 ### Laya
 - [Laya引擎下载](https://ldc.layabox.com/layadownload/?type=layaairide-LayaAir%20IDE%201.7.14%20beta)
 - [Laya适配教程](https://ldc.layabox.com/doc/?nav=zh-as-3-4-5)
-- [问题集合](https://github.com/iamaddy/laya-example/blob/master/wiki/Laya%20%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E6%B3%A8%E6%84%8F%E7%82%B9.md)
+- [问题集合](https://github.com/iamaddy/mini-game/issues/1)
 ## 教程
 - [小游戏官方文档](https://mp.weixin.qq.com/debug/wxagame/dev/index.html)
 ## 游戏素材
