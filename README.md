@@ -3,7 +3,7 @@
 ## 工具
 
 ## 教程
-
+- [小游戏官方文档](https://mp.weixin.qq.com/debug/wxagame/dev/index.html)
 ## 游戏素材
 - [opengameart](https://opengameart.org/)
 
