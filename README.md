@@ -4,7 +4,7 @@
 ### 白鹭
 - [白鹭引擎下载](https://www.egret.com/products/)
 - [问题集合](https://github.com/iamaddy/mini-game/issues/5)
-
+- [白鹭HTML5游戏转微信小游戏问题集锦，你关心的都在这里](https://mp.weixin.qq.com/s/AmlQeFOK78r4PtYD8oPFWA)
 ### Cocos
 - [cocos引擎下载](http://www.cocos.com/download)
 - [cocos适配教程](http://forum.cocos.com/t/faq/54842/4)
