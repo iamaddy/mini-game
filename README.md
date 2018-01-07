@@ -22,7 +22,7 @@
 - [小游戏官方文档](https://mp.weixin.qq.com/debug/wxagame/dev/index.html)
 - [微信小游戏问题集合](https://github.com/iamaddy/mini-game/issues/2)
 ## 经验分享
--[《欢乐坦克大战》微信小游戏开发总结](https://zhuanlan.zhihu.com/p/32625551)
+- [《欢乐坦克大战》微信小游戏开发总结](https://zhuanlan.zhihu.com/p/32625551)
 ## 游戏素材
 - [opengameart](https://opengameart.org/)
 
